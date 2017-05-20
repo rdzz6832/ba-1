@@ -1,0 +1,12 @@
+Ethereum JS Ecosystem Updates
+
+Posted by Martin Becze on March 21st, 2017.
+It’s been a fairly busy for the last couple of months for the Ethereum javascripters. To start with, there was a really great hackathon with IPFS. You can read Dan Finlay’s excellent write up here.
+
+Also, during this time Aaron Davis (Kumavis) made some excellent progress towards a JS light client by utilizing IPFS’s libp2p to build a in-browser mesh network and IPLD to provide the merklization layer. This will be important work in the future for building pure in-browser clients. Also Casey Detrio worked on a standard json RPC test suite, which you can see the results of here.
+
+After the Seattle Meetup, we (Axic and Wanderer) sat down for a week long hackathon in Budapest to hash out some details of ewasm. Elsewhere in JS world, Fabian is doing a huge refactor of Web3.js for the 1.0 release, while Nick Dodson has been busy with ethjs. The rest of this post will be charting the various projections that this technology could provide as well as going into some details about each individual project. All these projects are all open source and encourage community participation, so if you are interested please check them out, say hello and send in a PR if you have time!
+
+
+Comments:
+Misha: Hello World!
