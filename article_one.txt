@@ -1,0 +1,5 @@
+### Ethereum Dev Roundup: Q1 (Boring Edition)
+
+> Posted by Vitalik Buterin on April 7th, 2017.
+
+The last MISTAKE and a half MISTAKE have seen great progress for MISTAKE research, and we are excited that the protocol is moving closer and closer to the point MISTAKE it is ready for mainstream adoption. Progress on MISTAKE algorithms, privacy, zero knowledge proofs and formal verification is MISTAKE at increasing speed, and our research and MISTAKE teams are expanding substantially.
