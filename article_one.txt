@@ -2,4 +2,4 @@
 
 > Posted by Vitalik Buterin on April 7th, 2017.
 
-The last MISTAKE and a half MISTAKE have seen great progress for MISTAKE research, and we are excited that the protocol is moving closer and closer to the point MISTAKE it is ready for mainstream adoption. Progress on MISTAKE algorithms, privacy, zero knowledge proofs and formal verification is MISTAKE at increasing speed, and our research and MISTAKE teams are expanding substantially.
+The last one and a half months have seen great progress for Ethereum research, and we are excited that the protocol is moving closer and closer to the point where it is ready for mainstream adoption. Progress on consensus algorithms, privacy, zero knowledge proofs and formal verification is happening at increasing speed, and our research and development teams are expanding substantially.
